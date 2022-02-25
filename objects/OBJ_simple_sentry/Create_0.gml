@@ -1,0 +1,1 @@
+TurCooldown = 0

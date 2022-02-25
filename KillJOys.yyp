@@ -1,8 +1,14 @@
 {
   "resources": [
     {"id":{"name":"SPR_pistol_bullet","path":"sprites/SPR_pistol_bullet/SPR_pistol_bullet.yy",},"order":1,},
+    {"id":{"name":"SPR_sentry","path":"sprites/SPR_sentry/SPR_sentry.yy",},"order":2,},
     {"id":{"name":"OBJ_playerpistol","path":"objects/OBJ_playerpistol/OBJ_playerpistol.yy",},"order":0,},
+    {"id":{"name":"OBJ_Turret_bullet","path":"objects/OBJ_Turret_bullet/OBJ_Turret_bullet.yy",},"order":3,},
+    {"id":{"name":"OBJ_simple_sentry","path":"objects/OBJ_simple_sentry/OBJ_simple_sentry.yy",},"order":2,},
     {"id":{"name":"OBJ_pistol_bullet","path":"objects/OBJ_pistol_bullet/OBJ_pistol_bullet.yy",},"order":1,},
+    {"id":{"name":"SPR_tripod","path":"sprites/SPR_tripod/SPR_tripod.yy",},"order":3,},
+    {"id":{"name":"tilesprites","path":"sprites/tilesprites/tilesprites.yy",},"order":4,},
+    {"id":{"name":"basetiles","path":"tilesets/basetiles/basetiles.yy",},"order":0,},
     {"id":{"name":"SPR_pistol_palyer","path":"sprites/SPR_pistol_palyer/SPR_pistol_palyer.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],

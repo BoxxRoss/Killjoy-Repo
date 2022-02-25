@@ -1,1 +1,2 @@
+randomise()
 cooldown = 0
